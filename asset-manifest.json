@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/py.github.io/static/css/main.f855e6bc.css",
-    "main.js": "/py.github.io/static/js/main.b7a77629.js",
-    "static/js/453.df4bc7f3.chunk.js": "/py.github.io/static/js/453.df4bc7f3.chunk.js",
-    "static/media/logo.svg": "/py.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/py.github.io/index.html",
-    "main.f855e6bc.css.map": "/py.github.io/static/css/main.f855e6bc.css.map",
-    "main.b7a77629.js.map": "/py.github.io/static/js/main.b7a77629.js.map",
-    "453.df4bc7f3.chunk.js.map": "/py.github.io/static/js/453.df4bc7f3.chunk.js.map"
+    "main.css": "/py/static/css/main.f855e6bc.css",
+    "main.js": "/py/static/js/main.6fdb03ba.js",
+    "static/js/453.74bd8ff6.chunk.js": "/py/static/js/453.74bd8ff6.chunk.js",
+    "static/media/logo.svg": "/py/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/py/index.html",
+    "main.f855e6bc.css.map": "/py/static/css/main.f855e6bc.css.map",
+    "main.6fdb03ba.js.map": "/py/static/js/main.6fdb03ba.js.map",
+    "453.74bd8ff6.chunk.js.map": "/py/static/js/453.74bd8ff6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.b7a77629.js"
+    "static/js/main.6fdb03ba.js"
   ]
 }
